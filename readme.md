@@ -4,14 +4,21 @@
 ### Why?
 > As I was building [dartlib](https://github.com/kevmoo/dartlib) I realized there were few other examples of dart libraries. I was making up conventions (directory names, etc) as I went along based on my experience with *Ruby/Gems* and *node.js* among others.
 
+### How to
+
+If you want to **build a new library**, I'd suggest [downloading](https://github.com/kevmoo/dartblanklib/downloads) the contents of the project and putting them in a new directory. From there you can do `git init` and start from scratch.
+
+If you want to **contribute** tweaks, fixes, or documentation to `dartblanklib` then clone the [repository](https://github.com/kevmoo/dartblanklib).
+
 ### Structure
 
 <table>
   <tr>
     <td>readme.md</td>
     <td>
-      All projects should have one. `md` means <a href='http://daringfireball.net/projects/markdown/'>Markdown</a> which github parses nicely.
-      <em>Although &lt;table&gt; support is not ideal.</em>
+      <p>All projects should have one. You should delete the contents out of this one and start from scratch.</p>
+      <p>The `md` extension means <a href='http://daringfireball.net/projects/markdown/'>Markdown</a> which github parses nicely.</p>
+      <p><em>Although &lt;table&gt; support is not ideal.</em></p>
     </td>
   </tr>
   <tr>
