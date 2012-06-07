@@ -26,6 +26,10 @@ If you want to **contribute** tweaks, fixes, or documentation to `dartblanklib` 
     <td>A place to put external dependencies. See the notes in the file.</td>
   </tr>
   <tr>
+    <td>lib/</td>
+    <td>All of the library code goes in here. Not executables/scripts. Not samples. Not tests.</td>
+  </tr>
+  <tr>
     <td>test/</td>
     <td>See <code>readme.me</code> in the test directory.</td>
   </tr>
@@ -37,8 +41,11 @@ If you want to **contribute** tweaks, fixes, or documentation to `dartblanklib` 
     <td>samples/</td>
     <td>...todo...</td>
   </tr>
+  <tr>
+    <td><em>bin/</em></td>
+    <td>...todo...</td>
+  </tr>
 </table>
-
 
 ### Authors
  * [Kevin Moore](https://github.com/kevmoo) ([@kevmoo](http://twitter.com/kevmoo))
