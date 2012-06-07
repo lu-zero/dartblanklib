@@ -1,7 +1,7 @@
 #library('tests');
 
 #import('../vendor/unittest/unittest.dart');
-#import('../lib/_lib.dart');
+#import('../lib/foolib.dart');
 
 #source('test_two_numbers.dart');
 

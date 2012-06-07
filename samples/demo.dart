@@ -1,5 +1,5 @@
 #import('dart:html');
-#import('../lib/_lib.dart');
+#import('../lib/foolib.dart');
 
 main(){
   CanvasElement canvas = document.query("#content");
