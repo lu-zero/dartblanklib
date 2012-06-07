@@ -27,7 +27,7 @@ If you want to **contribute** tweaks, fixes, or documentation to `dartblanklib` 
   </tr>
   <tr>
     <td>lib/</td>
-    <td>All of the library code goes in here. Not executables/scripts. Not samples. Not tests.</td>
+    <td>See <code>readme.me</code> in the lib directory.</td>
   </tr>
   <tr>
     <td>test/</td>
