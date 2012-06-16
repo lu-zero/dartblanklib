@@ -2,11 +2,12 @@
 class TwoNumbers {
   final int _n1;
   final int _n2;
-  
-  TwoNumbers([this._n1 = 0, this._n2 = 0]);
+
+  TwoNumbers([num n1 = 0, num n2 = 0]) :
+    _n1 = n1, _n2 = n2;
 
   int get n1() => _n1;
-  
+
   int get n2() => _n2;
 
   bool operator ==(TwoNumbers other) {
