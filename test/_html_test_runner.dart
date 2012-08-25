@@ -1,6 +1,6 @@
-#library('html_tests');
+#library('example_tests');
 
-#import('../vendor/unittest/unittest.dart');
+#import('package:unittest/unittest.dart');
 
 #source('test_something_html.dart');
 

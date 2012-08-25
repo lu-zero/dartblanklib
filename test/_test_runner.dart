@@ -1,6 +1,6 @@
-#library('tests');
+#library('example_tests');
 
-#import('../vendor/unittest/unittest.dart');
+#import('package:unittest/unittest.dart');
 #import('../lib/example.dart');
 
 #source('test_two_numbers.dart');

@@ -1,4 +1,4 @@
-#import('../vendor/unittest/html_config.dart');
+#import('package:unittest/html_config.dart');
 
 #import('_test_runner.dart');
 #import('_html_test_runner.dart');
