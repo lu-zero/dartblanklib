@@ -1,3 +1,7 @@
+# This is a pubspec file. It defines the name of this library plus its dependencies.
+# The name of the sample library is 'example'. You'll want to change this.
+# At the moment, this libarry has one dependency: unittest
+# To make sure everything runs, execute `pub install` from the root directory before you try to run tests.
 name: example
 dependencies:
   unittest:
