@@ -2,7 +2,7 @@
 ## A starting spot for a dart library.
 
 ### Why?
-> As I was building [dartlib](https://github.com/kevmoo/dartlib) I realized there were few other examples of dart libraries. I was making up conventions (directory names, etc) as I went along based on my experience with *Ruby/Gems* and *node.js* among others.
+As I was building [dartlib](https://github.com/kevmoo/dartlib) I realized there were few other examples of dart libraries. I was making up conventions (directory names, etc) as I went along based on my experience with *Ruby/Gems* and *node.js* among others.
 
 ### How to
 
@@ -34,11 +34,11 @@ If you want to **contribute** tweaks, fixes, or documentation to `dartblanklib` 
     <td>See <code>readme.me</code> in the test directory.</td>
   </tr>
   <tr>
-    <td>samples/</td>
+    <td><em>samples/</em></td>
     <td>...todo...</td>
   </tr>
   <tr>
-    <td><em>bin/</em></td>
+    <td><em>run_tests</em></td>
     <td>...todo...</td>
   </tr>
 </table>
